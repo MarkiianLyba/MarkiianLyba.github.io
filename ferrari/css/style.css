@@ -1,0 +1,25 @@
+.shafa {
+    width:1000px;
+    border: 1px #555
+        solid;
+    padding:5px;
+    margin:15px;
+    float:left;
+}
+.hatka{
+    width:370px;
+    height:550px;
+    border: 2px #333
+        solid;
+    background-color:beige;
+    float:left;
+    padding:6px;
+    margin:17px;
+    overflow:scroll;
+}
+img{width:200px;
+margin:2}
+img.logo_2{width:50px;}
+.photo{width:210px;
+float:left}
+.small-foto{width:auto};
